@@ -1,1 +1,1 @@
-importScripts('https://demo-wpn.dialoginsight.com/T/OFC4/WPS/164/11/Y2Zj0ZygFSmX4I2tv02ypLsA1pApld2e/DI.WebPush-sw-lib.js');
+importScripts('https://wpn.ofsys.com/T/OFC4/WPS/10901/477/SpBWowsh5FIgCs5UuEYUyUxdzd2b7Y7q/DI.WebPush-sw-lib.js');
