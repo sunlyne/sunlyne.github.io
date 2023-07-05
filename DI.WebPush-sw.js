@@ -1,1 +1,1 @@
-importScripts('https://wpn.ofsys.com/T/OFC4/WPS/10901/477/SpBWowsh5FIgCs5UuEYUyUxdzd2b7Y7q/DI.WebPush-sw-lib.js');
+importScripts('https://wpn.ofsys.com/T/OFC4/WPS/10901/477/fWNxj5mSIz4Yb6rstOxJXIcoQMZllK1d/DI.WebPush-sw-lib.js');
